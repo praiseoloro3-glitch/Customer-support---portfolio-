@@ -1,22 +1,32 @@
-#Hi I'm praise oloro 👋. Welcome to my customer support portfolio. 
-## 🌟About me
-I'm a customer support and appointment setting professional with experience delivering excellent customer service, resolving customer issues, managing customer relationships, qualifying leads,and using CRM platforms to support bussiness growth 
-##💼Core Skills 
-Customer support 
-Appointment setting 
-Lead qualification 
-CRM management 
-Email and chat support 
-Customer success 
-Problem solving 
-Communication 
-##🛠️Tools & platforms 
-Hubspot 
-Salesforce 
-Zendesk 
-Freshdesk 
-Google workspace 
-Microsoft teams 
-Zoom
-##Career goals 
-I'm passionate about helping SaaS companies deliver exceptional customer experience and continuously improving support processes 
+# Hi, I'm Praise Oloro 👋
+
+Welcome to my Customer Support Portfolio.
+
+## 🌟 About Me
+
+I'm a Customer Support and Appointment Setting professional with experience delivering excellent customer service, resolving customer issues, managing customer relationships, qualifying leads, and using CRM platforms to support business growth.
+
+## 💼 Core Skills
+
+- Customer Support
+- Appointment Setting
+- Lead Qualification
+- CRM Management
+- Email & Chat Support
+- Customer Success
+- Problem Solving
+- Communication
+
+## 🛠️ Tools & Platforms
+
+- HubSpot
+- Salesforce
+- Zendesk
+- Freshdesk
+- Google Workspace
+- Microsoft Teams
+- Zoom
+
+## 🎯 Career Goals
+
+I'm passionate about helping SaaS companies deliver exceptional customer experiences, building strong customer relationships, and continuously improving support processes.
