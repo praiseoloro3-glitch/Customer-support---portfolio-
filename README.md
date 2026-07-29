@@ -1,32 +1,34 @@
 # Hi, I'm Praise Oloro 👋
 
-Welcome to my Customer Support Portfolio.
+Welcome to my Sales Development Portfolio.
 
 ## 🌟 About Me
 
-I'm a Customer Support and Appointment Setting professional with experience delivering excellent customer service, resolving customer issues, managing customer relationships, qualifying leads, and using CRM platforms to support business growth.
+I'm a results-driven Sales Development Specialist with over five years of experience in lead generation, prospecting, lead qualification, appointment setting, customer engagement, and relationship building. I specialize in identifying customer needs, handling objections, nurturing sales opportunities, and building strong client relationships that drive business growth.
 
 ## 💼 Core Skills
 
-- Customer Support
-- Appointment Setting
-- Lead Qualification
-- CRM Management
-- Email & Chat Support
-- Customer Success
-- Problem Solving
-- Communication
+- Business Development
+- Consultative Selling
+- B2B Sales
+- Cold Calling
+- Lead Generation
+- Sales Qualified Lead (SQL) Generation
+- Sales Pipeline Management
+- Discovery Call Scheduling
+- Sales Automation
+- Excellent Written & Verbal Communication
+- Remote Collaboration
+- Time Management & Professionalism
 
 ## 🛠️ Tools & Platforms
 
 - HubSpot
 - Salesforce
-- Zendesk
-- Freshdesk
 - Google Workspace
 - Microsoft Teams
 - Zoom
 
 ## 🎯 Career Goals
 
-I'm passionate about helping SaaS companies deliver exceptional customer experiences, building strong customer relationships, and continuously improving support processes.
+I'm passionate about helping businesses generate qualified sales opportunities, build strong customer relationships, and consistently exceed sales targets through strategic prospecting, consultative selling, and effective communication.
