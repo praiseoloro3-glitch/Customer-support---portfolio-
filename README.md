@@ -1,34 +1,39 @@
 # Hi, I'm Praise Oloro 👋
 
-Welcome to my Sales Development Portfolio.
+## Customer Success | Customer Support | Client Experience
 
-## 🌟 About Me
+I'm a customer-focused professional with 5+ years of experience helping customers succeed, resolving complex issues, improving customer satisfaction, and building long-term relationships. I enjoy understanding customer needs, solving problems, and working cross-functionally to deliver exceptional customer experiences.
 
-I'm a results-driven Sales Development Specialist with over five years of experience in lead generation, prospecting, lead qualification, appointment setting, customer engagement, and relationship building. I specialize in identifying customer needs, handling objections, nurturing sales opportunities, and building strong client relationships that drive business growth.
+### What I Bring
+- Customer Success & Relationship Management
+- Customer Onboarding & Account Support
+- Customer Retention & Churn Reduction
+- CRM Management (Salesforce, HubSpot)
+- Ticketing Systems (Zendesk, Freshdesk)
+- Cross-functional Collaboration
+- Process Improvement
+- Professional Email & Chat Support
+- Customer Education
+- Data Tracking & Reporting
 
-## 💼 Core Skills
+### My Experience
+- Managed 50–80+ customer interactions daily across multiple channels.
+- Resolved customer issues while maintaining high satisfaction.
+- Collaborated with internal teams to improve the customer experience.
+- Promoted to Senior Customer Service Specialist within nine months based on performance.
+- Built long-term customer relationships through proactive communication and follow-ups.
 
-- Business Development
-- Consultative Selling
-- B2B Sales
-- Cold Calling
-- Lead Generation
-- Sales Qualified Lead (SQL) Generation
-- Sales Pipeline Management
-- Discovery Call Scheduling
-- Sales Automation
-- Excellent Written & Verbal Communication
-- Remote Collaboration
-- Time Management & Professionalism
-
-## 🛠️ Tools & Platforms
-
-- HubSpot
+### Tools
 - Salesforce
+- HubSpot
+- Zendesk
+- Freshdesk
 - Google Workspace
 - Microsoft Teams
 - Zoom
 
-## 🎯 Career Goals
+### Currently
+📌 Actively pursuing Customer Success and Client Success opportunities with remote-first companies.
 
-I'm passionate about helping businesses generate qualified sales opportunities, build strong customer relationships, and consistently exceed sales targets through strategic prospecting, consultative selling, and effective communication.
+---
+*"Great customer experiences are built through empathy, communication, and continuous improvement."*
